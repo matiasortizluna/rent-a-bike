@@ -1,0 +1,739 @@
+# depslib dependency file v1.0
+1546876081 source:c:\users\matías ariel\desktop\projeto v.1\funcoesbasicas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+
+1546873805 source:c:\users\matías ariel\desktop\projeto v.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+
+1546877241 c:\users\matías ariel\desktop\projeto v.1\funcoesbasicas.h
+	"estruturas.h"
+
+1546874780 c:\users\matías ariel\desktop\projeto v.1\estruturas.h
+	"constantes.h"
+
+1546219699 c:\users\matías ariel\desktop\projeto v.1\constantes.h
+
+1546876362 source:c:\users\matías ariel\desktop\projeto v.1\funcoes_bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoesbasicas.h"
+
+1546876882 c:\users\matías ariel\desktop\projeto v.1\funcoes_bicicletas.h
+	"estruturas.h"
+
+1546876632 c:\users\matías ariel\desktop\projeto v.1\funcoes_utentes.h
+	"estruturas.h"
+
+1546877284 source:c:\users\matías ariel\desktop\projeto v.1\funcoes_utentes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_emprestimos.h"
+
+1546876764 source:c:\users\matías ariel\desktop\projeto v.1\funcoes_emprestimos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_bicicletas.h"
+
+1546876746 c:\users\matías ariel\desktop\projeto v.1\funcoes_emprestimos.h
+	"estruturas.h"
+
+1546877158 source:c:\users\matías ariel\desktop\projeto v.1\funcoes_lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_emprestimos.h"
+
+1546875607 c:\users\matías ariel\desktop\projeto v.1\funcoes_lista.h
+	"estruturas.h"
+
+1545947293 source:c:\users\matías ariel\desktop\projeto v.2\funcoes_bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+
+1545853783 c:\users\matías ariel\desktop\projeto v.2\constantes.h
+
+1545945690 c:\users\matías ariel\desktop\projeto v.2\estruturas.h
+	"constantes.h"
+
+1545945690 source:c:\users\matías ariel\desktop\projeto v.2\funcoes_emprestimos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+
+1545578066 source:c:\users\matías ariel\desktop\projeto v.2\funcoes_utentes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+
+1545922958 source:c:\users\matías ariel\desktop\projeto v.2\funcoesbasicas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+
+1545947755 source:c:\users\matías ariel\desktop\projeto v.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+
+1545843702 c:\users\matías ariel\desktop\projeto v.2\funcoesbasicas.h
+	"estruturas.h"
+
+1545071960 c:\users\matías ariel\desktop\projeto v.2\funcoes_bicicletas.h
+	"estruturas.h"
+
+1545473621 c:\users\matías ariel\desktop\projeto v.2\funcoes_utentes.h
+	"estruturas.h"
+
+1545493321 c:\users\matías ariel\desktop\projeto v.2\funcoes_emprestimos.h
+	"estruturas.h"
+
+1545852452 c:\users\matías ariel\desktop\projeto v.2\funcoes_lista.h
+	"estruturas.h"
+
+1545943393 source:c:\users\matías ariel\desktop\projeto v.2\funcoes_lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+
+1546195587 source:c:\users\matías ariel\desktop\projeto v.3\funcoes_bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+
+1545853783 c:\users\matías ariel\desktop\projeto v.3\constantes.h
+
+1546202997 c:\users\matías ariel\desktop\projeto v.3\estruturas.h
+	"constantes.h"
+
+1546206461 source:c:\users\matías ariel\desktop\projeto v.3\funcoes_emprestimos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+
+1546206461 source:c:\users\matías ariel\desktop\projeto v.3\funcoes_lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+
+1546206461 source:c:\users\matías ariel\desktop\projeto v.3\funcoes_utentes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+
+1546206508 source:c:\users\matías ariel\desktop\projeto v.3\funcoesbasicas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+
+1546206667 source:c:\users\matías ariel\desktop\projeto v.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+
+1545843702 c:\users\matías ariel\desktop\projeto v.3\funcoesbasicas.h
+	"estruturas.h"
+
+1545071960 c:\users\matías ariel\desktop\projeto v.3\funcoes_bicicletas.h
+	"estruturas.h"
+
+1545473621 c:\users\matías ariel\desktop\projeto v.3\funcoes_utentes.h
+	"estruturas.h"
+
+1545493321 c:\users\matías ariel\desktop\projeto v.3\funcoes_emprestimos.h
+	"estruturas.h"
+
+1545852452 c:\users\matías ariel\desktop\projeto v.3\funcoes_lista.h
+	"estruturas.h"
+
+1546876362 source:c:\users\matías ariel\desktop\antesde\funcoes_bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoesbasicas.h"
+
+1546219699 c:\users\matías ariel\desktop\antesde\constantes.h
+
+1546874780 c:\users\matías ariel\desktop\antesde\estruturas.h
+	"constantes.h"
+
+1546877241 c:\users\matías ariel\desktop\antesde\funcoesbasicas.h
+	"estruturas.h"
+
+1546896582 source:c:\users\matías ariel\desktop\antesde\funcoes_emprestimos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_bicicletas.h"
+
+1546876632 c:\users\matías ariel\desktop\antesde\funcoes_utentes.h
+	"estruturas.h"
+
+1546896539 c:\users\matías ariel\desktop\antesde\funcoes_emprestimos.h
+	"estruturas.h"
+
+1546876882 c:\users\matías ariel\desktop\antesde\funcoes_bicicletas.h
+	"estruturas.h"
+
+1546881186 source:c:\users\matías ariel\desktop\antesde\funcoes_lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_emprestimos.h"
+
+1546877284 source:c:\users\matías ariel\desktop\antesde\funcoes_utentes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_emprestimos.h"
+
+1546879390 source:c:\users\matías ariel\desktop\antesde\funcoesbasicas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+
+1546896664 source:c:\users\matías ariel\desktop\antesde\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+
+1546877211 c:\users\matías ariel\desktop\antesde\funcoes_lista.h
+	"estruturas.h"
+
+1546909896 source:c:\users\matías ariel\desktop\lista\funcoes_bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoesbasicas.h"
+
+1546219699 c:\users\matías ariel\desktop\lista\constantes.h
+
+1546952908 c:\users\matías ariel\desktop\lista\estruturas.h
+	"constantes.h"
+
+1546877241 c:\users\matías ariel\desktop\lista\funcoesbasicas.h
+	"estruturas.h"
+
+1546951996 source:c:\users\matías ariel\desktop\lista\funcoes_emprestimos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_bicicletas.h"
+
+1546876632 c:\users\matías ariel\desktop\lista\funcoes_utentes.h
+	"estruturas.h"
+
+1546907358 c:\users\matías ariel\desktop\lista\funcoes_emprestimos.h
+	"estruturas.h"
+
+1546907338 c:\users\matías ariel\desktop\lista\funcoes_bicicletas.h
+	"estruturas.h"
+
+1546910125 source:c:\users\matías ariel\desktop\lista\funcoes_utentes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_emprestimos.h"
+
+1546909533 source:c:\users\matías ariel\desktop\lista\funcoesbasicas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+
+1546952915 source:c:\users\matías ariel\desktop\lista\funcoes_lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_emprestimos.h"
+
+1546952160 source:c:\users\matías ariel\desktop\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+
+1546952844 c:\users\matías ariel\desktop\lista\funcoes_lista.h
+	"estruturas.h"
+
+1547495709 source:c:\users\matías ariel\desktop\projeto\funcoes_bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+	"funcoes_adicionales.h"
+
+1547419094 c:\users\matías ariel\desktop\projeto\constantes.h
+
+1547419830 c:\users\matías ariel\desktop\projeto\estruturas.h
+	"constantes.h"
+
+1547428925 c:\users\matías ariel\desktop\projeto\funcoesbasicas.h
+	"estruturas.h"
+
+1547495834 source:c:\users\matías ariel\desktop\projeto\funcoes_lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+	"funcoes_adicionales.h"
+
+1547429858 c:\users\matías ariel\desktop\projeto\funcoes_emprestimos.h
+	"estruturas.h"
+
+1547495710 source:c:\users\matías ariel\desktop\projeto\funcoesbasicas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+	"funcoes_adicionales.h"
+
+1547495866 source:c:\users\matías ariel\desktop\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+	"funcoes_adicionales.h"
+
+1547422033 c:\users\matías ariel\desktop\projeto\funcoes_bicicletas.h
+	"estruturas.h"
+
+1547424729 c:\users\matías ariel\desktop\projeto\funcoes_utentes.h
+	"estruturas.h"
+
+1547434411 c:\users\matías ariel\desktop\projeto\funcoes_lista.h
+	"estruturas.h"
+
+1547495710 source:c:\users\matías ariel\desktop\projeto\funcoes_utentes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+	"funcoes_adicionales.h"
+
+1547495834 source:c:\users\matías ariel\desktop\projeto\funcoes_emprestimos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+	"funcoes_adicionales.h"
+
+1547428923 c:\users\matías ariel\desktop\projeto\funcoes_adicionales.h
+	"estruturas.h"
+
+1547495709 source:c:\users\matías ariel\desktop\projeto\funcoes_adicionales.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+	"funcoes_adicionales.h"
+
+1547499309 source:c:\users\matías ariel\onedrive - ipleiria\1ero semestre\programacao i\projeto final\projeto\funcoes_adicionales.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+	"funcoes_adicionales.h"
+
+1547432525 c:\users\matías ariel\onedrive - ipleiria\1ero semestre\programacao i\projeto final\projeto\funcoesbasicas.h
+	"estruturas.h"
+
+1547423430 c:\users\matías ariel\onedrive - ipleiria\1ero semestre\programacao i\projeto final\projeto\estruturas.h
+	"constantes.h"
+
+1547422694 c:\users\matías ariel\onedrive - ipleiria\1ero semestre\programacao i\projeto final\projeto\constantes.h
+
+1547425633 c:\users\matías ariel\onedrive - ipleiria\1ero semestre\programacao i\projeto final\projeto\funcoes_bicicletas.h
+	"estruturas.h"
+
+1547428329 c:\users\matías ariel\onedrive - ipleiria\1ero semestre\programacao i\projeto final\projeto\funcoes_utentes.h
+	"estruturas.h"
+
+1547433458 c:\users\matías ariel\onedrive - ipleiria\1ero semestre\programacao i\projeto final\projeto\funcoes_emprestimos.h
+	"estruturas.h"
+
+1547438011 c:\users\matías ariel\onedrive - ipleiria\1ero semestre\programacao i\projeto final\projeto\funcoes_lista.h
+	"estruturas.h"
+
+1547432523 c:\users\matías ariel\onedrive - ipleiria\1ero semestre\programacao i\projeto final\projeto\funcoes_adicionales.h
+	"estruturas.h"
+
+1547499309 source:c:\users\matías ariel\onedrive - ipleiria\1ero semestre\programacao i\projeto final\projeto\funcoes_bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+	"funcoes_adicionales.h"
+
+1547499434 source:c:\users\matías ariel\onedrive - ipleiria\1ero semestre\programacao i\projeto final\projeto\funcoes_emprestimos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+	"funcoes_adicionales.h"
+
+1547499434 source:c:\users\matías ariel\onedrive - ipleiria\1ero semestre\programacao i\projeto final\projeto\funcoes_lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+	"funcoes_adicionales.h"
+
+1547499310 source:c:\users\matías ariel\onedrive - ipleiria\1ero semestre\programacao i\projeto final\projeto\funcoes_utentes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+	"funcoes_adicionales.h"
+
+1547499310 source:c:\users\matías ariel\onedrive - ipleiria\1ero semestre\programacao i\projeto final\projeto\funcoesbasicas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+	"funcoes_adicionales.h"
+
+1547499466 source:c:\users\matías ariel\onedrive - ipleiria\1ero semestre\programacao i\projeto final\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+	"funcoes_adicionales.h"
+
+1547495709 source:c:\users\matías ariel\onedrive - ipleiria\1ro\1ero semestre\programacao i\projeto final\projeto\funcoes_adicionales.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+	"funcoes_adicionales.h"
+
+1547428925 c:\users\matías ariel\onedrive - ipleiria\1ro\1ero semestre\programacao i\projeto final\projeto\funcoesbasicas.h
+	"estruturas.h"
+
+1547419830 c:\users\matías ariel\onedrive - ipleiria\1ro\1ero semestre\programacao i\projeto final\projeto\estruturas.h
+	"constantes.h"
+
+1547419094 c:\users\matías ariel\onedrive - ipleiria\1ro\1ero semestre\programacao i\projeto final\projeto\constantes.h
+
+1547422033 c:\users\matías ariel\onedrive - ipleiria\1ro\1ero semestre\programacao i\projeto final\projeto\funcoes_bicicletas.h
+	"estruturas.h"
+
+1547424729 c:\users\matías ariel\onedrive - ipleiria\1ro\1ero semestre\programacao i\projeto final\projeto\funcoes_utentes.h
+	"estruturas.h"
+
+1547429858 c:\users\matías ariel\onedrive - ipleiria\1ro\1ero semestre\programacao i\projeto final\projeto\funcoes_emprestimos.h
+	"estruturas.h"
+
+1547434411 c:\users\matías ariel\onedrive - ipleiria\1ro\1ero semestre\programacao i\projeto final\projeto\funcoes_lista.h
+	"estruturas.h"
+
+1547428923 c:\users\matías ariel\onedrive - ipleiria\1ro\1ero semestre\programacao i\projeto final\projeto\funcoes_adicionales.h
+	"estruturas.h"
+
+1547495709 source:c:\users\matías ariel\onedrive - ipleiria\1ro\1ero semestre\programacao i\projeto final\projeto\funcoes_bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+	"funcoes_adicionales.h"
+
+1547495834 source:c:\users\matías ariel\onedrive - ipleiria\1ro\1ero semestre\programacao i\projeto final\projeto\funcoes_emprestimos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+	"funcoes_adicionales.h"
+
+1547495834 source:c:\users\matías ariel\onedrive - ipleiria\1ro\1ero semestre\programacao i\projeto final\projeto\funcoes_lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+	"funcoes_adicionales.h"
+
+1547495710 source:c:\users\matías ariel\onedrive - ipleiria\1ro\1ero semestre\programacao i\projeto final\projeto\funcoes_utentes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+	"funcoes_adicionales.h"
+
+1547495710 source:c:\users\matías ariel\onedrive - ipleiria\1ro\1ero semestre\programacao i\projeto final\projeto\funcoesbasicas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+	"funcoes_adicionales.h"
+
+1547495866 source:c:\users\matías ariel\onedrive - ipleiria\1ro\1ero semestre\programacao i\projeto final\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"estruturas.h"
+	"funcoesbasicas.h"
+	"funcoes_bicicletas.h"
+	"funcoes_utentes.h"
+	"funcoes_emprestimos.h"
+	"funcoes_lista.h"
+	"funcoes_adicionales.h"
+

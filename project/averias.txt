@@ -1,0 +1,9 @@
+
+Nova Escrita.
+Total Averias: 1
+-----------
+Designacao Bicicleta: 1
+Comentario:  A bicicleta avereu se ela mesmo. Nao foi a minha
+Distancia Percorrida: 20
+Data e Hora da Averia: 
+Dia: 23	Mes: 23	Ano: 2018	Hora: 5
