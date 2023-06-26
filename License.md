@@ -1,6 +1,6 @@
 All Rights Reserved License
 
-Copyright 2023 Matias Ortiz Luna
+Copyright 2023 Matias Ortiz Luna & Steven Toapanta
 
 Permission to use, copy, modify, and distribute this software and its documentation is strictly prohibited without prior written permission from the copyright holder.
 
