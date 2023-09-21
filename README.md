@@ -1,70 +1,26 @@
 # Welcome to rent-a-bike repository
 
+Project of the subject "Programming I" of the Degree in Computer Engineering: Interface for renting bicycles for users
+Final grade of the subject: 18/20.
 
-PROGRAMAÇÃO I
-ENGENHARIA INFORMÁTICA
-Projeto
- 
+The goal is to develop a program in the C language to assist in the management of bike sharing used for commuting between campuses of the Polytechnic located in Leiria. 
 
-Objetivo
-Pretende-se elaborar um programa em linguagem C que auxilie na gestão da partilha de bicicletas utilizadas na deslocação entre os campi do Politécnico localizados em Leiria.
-2. Descrição do problema
-O programa deverá registar a informação referente às 15 bicicletas, aos seus utentes e aos empréstimos efetuados.
-Quando um utente pretender efetuar o empréstimo de uma bicicleta deverá indicar o campus em que se encontra, e para que campus se pretende deslocar. Caso existam bicicletas disponíveis no campus de origem indicado pelo utente, o empréstimo deverá ser imediatamente efetuado. Caso contrário, o utente deverá ficar em fila de espera. Após chegar ao campus de destino, o utente deverá efetuar a devolução da bicicleta. Considera-se que as bicicletas circularão entre os seguintes campi de Leiria: Residências, Campus 1, Campus 2 e Campus 5.
+The program records information regarding 15 bicycles, their users, and the loans made. When a user intends to borrow a bicycle, the program indicates the campus that they are at and the campus they want to go to. If there are available bicycles at the origin campus indicated by the user, the loan is immediately processed. Otherwise, the user is placed in a waiting queue. Upon reaching the destination campus, the user returns the bicycle. There are 5 campuses in Leiria: Residences, Campus 1, Campus 2, and Campus 5.
 
-
-Funcionalidades da aplicação a desenvolver
-A aplicação, a desenvolver na linguagem C, deverá apresentar ao utilizador um menu de opções que disponibilize as seguintes funcionalidades:
-• Inserir, consultar e listar os dados das bicicletas.
-Deverão também ser listados a quantidade de empréstimos, a quantidade de avarias e a distância total percorrida.
-• Inserir, alterar, consultar e listar os dados dos utentes. Deverão também ser listados a quantidade de empréstimos efetuados e a distância total percorrida.
-•Registar, consultar e listar os dados dos empréstimos e da lista de espera.
-• Registar a devolução de uma bicicleta.
-• Eliminar um pedido de empréstimo que se encontre em lista de espera, ou
-alterar o seu campus de destino.
-• Registar uma avaria/reparação de uma bicicleta.
-•Registar o critério na atribuição de bicicletas aos pedidos que se encontram em lista de espera. O utilizador deverá selecionar um dos seguintes critérios: ordem de entrada do pedido, por tipo de utente ou por distância a percorrer (entre os campi).
-• Listar os dados da última bicicleta utilizada por um determinado utente (indicado pelo utilizador), bem como o histórico de empréstimos desse utente.
-•Listar os utentes por ordem decrescente da quantidade de empréstimos efetuados.
-• Apresentar quantidade quantidade
-• Apresentar
-por cada bicicleta, quantidade de empréstimos efetuados entre duas datas (indicadas pelo utilizador), percentagem de empréstimos efetuados por cada tipo de utente, campus de origem com a maior quantidade de empréstimos, e a quantidade de utentes que utilizaram uma determinada bicicleta (indicada pelo utilizador).
-• Armazenar (e ler) em ficheiro(s) binário(s) toda a informação.
-• Acrescentar num log, em ficheiro de texto, a seguinte informação referente a cada avaria: designação da bicicleta, distância total percorrida, data e hora da avaria, e descrição da avaria.
-
-O programa deverá apresentar mensagens de aviso/erro sempre que necessário.
-
-
-O projeto (ficheiros de código fonte), que terá de compilar no gcc 4.9.2 utilizando o
-IDE Codeblocks.
-
-
-
-Cotações
-Nota do Projeto (0-20) = 50% * notaFase1 (mín de 8.0) + 50% notaFase2 (mín de 8.0)
-Critérios de correção da Fase 1 do Projeto e respetivas cotações (*)
-a) Relatório contendo a representação gráfica e a descrição das estruturas de dados utilizadas, a justificação das opções de implementação tomadas, e a identificação das funcionalidades não desenvolvidas...........................................................................5,0%
-b) Estrutura de Menus...................................................................................................5,0%
-c) Gestão de bicicletas, e respetivas listagens .............................................................5,0%
-d) Gestão de utentes, e respetivas listagens ................................................................5,0%
-e) Gestão de empréstimos, listas de espera e respetivas listagens ...........................15,0%
-f) Registodeavaria/reparaçãodeumabicicleta..........................................................5,0%
-g) Critério na atribuição de bicicletas a pedidos em lista de espera ...........................10,0%
-h) Listagem dos dados da bicicleta que transportou determinado utilizador.................5,0%
-i) Listagem de utentes por ordem decrescente da quantidade de empréstimos..........5,0%
-j) Ficheiros (leitura e escrita dos dados em ficheiros binários) ....................................7,5%
-k) Ficheiros (log de avarias)..........................................................................................2,5%
-l) Dados estatísticos (cálculo e apresentação)...........................................................25,0%
-m)Estrutura geral do programa, incluindo a adequada utilização de variáveis locais, constantes, funções, comentários para auxiliar na interpretação do código (incluindo funções), correta indentação do código ....................................................................5,0%
-
-
-
-
-
-
-
-
-
-
+The application, was developed in the C language, and presents the user with a menu of options that provide the following functionalities: 
+• Insert, consult, and list bicycle data. The number of loans, the number of malfunctions, and the total distance traveled should also be listed. 
+• Insert, modify, consult, and list user data. The number of loans made and the total distance traveled should also be listed. 
+• Record, consult, and list loan data and the waiting list. 
+• Register the return of a bicycle. 
+• Delete a loan request on the waiting list or change its destination campus. 
+• Record a malfunction/repair of a bicycle. 
+• Register the criteria for assigning bicycles to requests on the waiting list. The user should select one of the following criteria: order of request entry, by user type, or by distance to be traveled (between campuses). 
+• List the data of the last bicycle used by a specific user (indicated by the user), as well as the loan history of that user. 
+• List users in descending order of the number of loans made. 
+• Display quantity quantity 
+• Show, for each bicycle, the number of loans made between two dates (indicated by the user), the percentage of loans made by each type of user, the origin campus with the highest number of loans, and the number of users who used a specific bicycle (indicated by the user). 
+• Store (and read) all information in binary file(s). 
+• Add to a log in a text file the following information regarding each malfunction: bicycle designation, total distance traveled, date and time of the malfunction, and description of the malfunction.
+• The program should display warning/error messages whenever necessary.
 
 ![P1_screenshoot](https://user-images.githubusercontent.com/64530615/178125951-85c78786-102b-4305-8921-9cae73b37857.jpg)
