@@ -1,6 +1,7 @@
 # Welcome to rent-a-bike repository
 
-Project of the subject "Programming I" of the Degree in Computer Engineering: Interface for renting bicycles for users
+Project of the subject "Programming I" of the Degree in Computer Engineering: Interface for renting bicycles for users.
+
 Final grade of the subject: 18/20.
 
 The goal was to develop a program in the C language to assist in the management of bike sharing used for commuting between campuses of the Polytechnic located in Leiria. 
